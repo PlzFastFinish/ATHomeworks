@@ -9,8 +9,8 @@ package homework_1;
 public class Homework_1_5 {
     public static void main(String[] args) {
         int q = 34, w = 3;
-        int res = q/w;
-        int ost = q%w;
+        int res = q / w;
+        int ost = q % w;
         System.out.println(q + " / " + w + " = " + res + " и " + ost + " в остатке.");
     }
 }
