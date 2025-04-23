@@ -31,7 +31,7 @@ public class Homework_3_1 {
         }
         System.out.println("Минимальное значение в массиве: " + min);
 
-        int max = array [0];
+        int max = array[0];
         for (int i = 1; i < a; i++) {
             if (array[i] > max) {
                 max = array[i];
